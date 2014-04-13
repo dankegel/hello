@@ -3,6 +3,6 @@
 int main(int argc, char **argv)
 {
     printf("Hello, world!\n");
-    syntax error 2
+    printf("Removed syntax error 2\n");
     return 0;
 }
